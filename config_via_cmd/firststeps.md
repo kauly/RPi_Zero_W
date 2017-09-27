@@ -4,6 +4,7 @@
 
 A primeira coisa a se fazer é soldar a barra de pinos. O RPi Zero W possui 40 pinos de GPIO, a barra que eu utilizei foi [essa](https://www.filipeflop.com/produto/barra-de-pinos-2x40-180-graus/), ela possui 80 pinos, então é preciso cortar a barra pela metade, utilize um alicate de corte para isso. Esse [vídeo](https://www.youtube.com/watch?v=8N18lIL3Uwk) possui boas dicas de como soldar a barra no RPi. O processo requer paciência e um local bem iluminado. 
 **Dica**: Não force muito a barra na protoboard que ela quebra. Veja o vídeo com atenção.
+
 ![Frente](img/rpi1_s.png) ![Verso](img/rpi2_s.png)
 
 ### Passando o Raspian para o Sd Card
